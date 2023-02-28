@@ -1,4 +1,4 @@
-# Secret Word
+# Secret Word 🕹
 
 Trata-se de uma aplicação que funciona como um jogo de palavras, onde há uma dica geral da palavra em questão e o jogador possui 3 tentativas para tentar advinha-lá. 
 
