@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Franklin Gothic Medium';
+  margin: 0;
+  padding: 0;
+  background: rgb(13, 0, 99);
+  background: linear-gradient(0deg, rgba(13, 0, 99, 1) 0%, rgba(49, 194, 255, 1) 37%, rgba(202, 40, 255, 1) 100%);
+  color: white;
+}
+
+button {
+  height: 50px;
+  padding: 0 45px;
+  border-radius: 25px;
+  border: 2px solid #fff;
+  cursor: pointer;
+  transition: .4s;
+  font-weight: bold;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  color: #fff;
+  background: rgb(87, 87, 255);
+}
+
+button:hover {
+  background: rgb(43, 43, 167);
+}
