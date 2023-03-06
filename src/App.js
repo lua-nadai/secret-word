@@ -90,11 +90,14 @@ function App() {
   useEffect(() => {
     const uniqueLetters = [...new Set(letters)];
 
-    if (guessedLetters.length === uniqueLetters.length) {
+    if (
+      guessedLetters.length === uniqueLetters.length &&
+      gameStage === stages[1].name
+    ) {
       setScore((actualScore) => (actualScore += 100));
       startGame();
     }
-  }, [guessedLetters, letters, startGame]);
+  }, [guessedLetters, letters, gameStage, startGame]);
 
   const retry = () => {
     setScore(0);
