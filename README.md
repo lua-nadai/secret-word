@@ -6,6 +6,6 @@ Após advinhar a palavra da rodada, outra palavra surge e o jogador acumula 100 
 
 O jogo termina quando o jogador esgota suas 3 tentativas.
 
-Clique [aqui](https://luanadai-secret-word.netlify.app/) para jogar.
+Clique [aqui](https://lua-nadai.github.io/secret-word) para jogar.
 
 Boa sorte 🤞🎉
