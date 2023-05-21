@@ -8,4 +8,4 @@ O jogo termina quando o jogador esgota suas 3 tentativas.
 
 Clique [aqui](https://luanadai-secret-word.netlify.app/) para jogar.
 
-Boa sorte 🤞🎉
+Boa sorte 🤞🎉.
