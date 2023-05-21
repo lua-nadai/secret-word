@@ -8,4 +8,4 @@ O jogo termina quando o jogador esgota suas 3 tentativas.
 
 Clique [aqui](https://lua-nadai.github.io/secret-word) para jogar.
 
-Boa sorte 🤞🎉
+Boa sorte 🤞🎉.
